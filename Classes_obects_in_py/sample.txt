@@ -1,0 +1,5 @@
+''' 
+A context manager in python is closesly related to the with statement , 
+The context manager is when we implement __enter__ and __exit__ methods in our class , the __enter__ executes when we go inside
+the with block and __exit__ triggers when we exit it.
+'''
